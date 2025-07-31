@@ -1,9 +1,7 @@
 # 👨‍💻 Welcome to My GitHub Profile! 🌟
 
-## About Me
-👋 Hi there! I'm a **Full Stack Engineer** with 8+ years of experience building impactful solutions.  
-🚀 I’m passionate about leveraging **cutting-edge technologies** to solve complex problems and create innovative experiences.  
-💡 Always striving to learn from my teammates and **grow** as an engineer.
+👋 Hi there! I'm a...
+- Full Stack Developer | Blockchain Enthusiast | AI Specialist | Gamer | Trader
 
 ---
 
